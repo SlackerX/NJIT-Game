@@ -1,0 +1,16 @@
+{
+    "name": "car-racer",
+    "version": "1.0.0",
+    "description": "A car racing game made with JavaScript",
+    "main": "index.js",
+    "repository": "github.com/SlackerX/NJIT-Game",
+    "author": "Brian Schreiner",
+    "license": "MIT",
+    "scripts": {
+      "start": "npx browser-sync start -sw"
+    },
+    "devDependencies": {
+      "browser-sync": "^2.26.7"
+    }
+  }
+  
